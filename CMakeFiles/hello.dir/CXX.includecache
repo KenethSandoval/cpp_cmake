@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/stiveun/Desktop/cpp_makefile/helper.cpp
+helper.h
+/home/stiveun/Desktop/cpp_makefile/helper.h
+
+/home/stiveun/Desktop/cpp_makefile/helper.h
+
+/home/stiveun/Desktop/cpp_makefile/main.cpp
+iostream
+-
+cstdlib
+-
+helper.h
+/home/stiveun/Desktop/cpp_makefile/helper.h
+

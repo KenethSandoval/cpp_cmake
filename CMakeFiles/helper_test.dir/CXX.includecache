@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/stiveun/Desktop/cpp_makefile/helper.cpp
+helper.h
+/home/stiveun/Desktop/cpp_makefile/helper.h
+
+/home/stiveun/Desktop/cpp_makefile/helper.h
+
+/home/stiveun/Desktop/cpp_makefile/helper_test.cpp
+helper.h
+/home/stiveun/Desktop/cpp_makefile/helper.h
+cassert
+-
+
